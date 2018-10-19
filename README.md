@@ -1,4 +1,7 @@
 # crossbuild
+
+[![GuardRails badge](https://badges.production.guardrails.io/moul/crossbuild.svg)](https://www.guardrails.io)
+
 :earth_africa: multiarch cross compiling environments
 
 This is a multiarch Docker build environment image.
